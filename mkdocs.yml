@@ -1,0 +1,7 @@
+site_name: Test Site xTreme 
+
+nav: 
+  - Home: 'index.md'
+  - Test: 'test.md'
+
+use_directory_urls: false 
